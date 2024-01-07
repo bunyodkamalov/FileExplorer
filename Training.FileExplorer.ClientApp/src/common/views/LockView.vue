@@ -12,7 +12,7 @@
             <!-- Profile image -->
             <div class="flex flex-col items-center justify-center gap-6">
 
-                <img src="../../assets/images/profilePicture.jpg" alt="Profile picture"
+                <img src="../../assets/images/profile-picture.jpg" alt="Profile picture"
                      class="h-[200px] w-[200px] object-cover rounded-full ring-4 ring-gray-400">
                 <h5 class="text-gray-400 font-bold text-3xl">Bunyod Kamalov</h5>
 
