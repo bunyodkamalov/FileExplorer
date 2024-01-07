@@ -1,0 +1,12 @@
+D:\File explorer\FileExplorer\FileExplorer.Application\bin\Debug\net7.0\FileExplorer.Application.deps.json
+D:\File explorer\FileExplorer\FileExplorer.Application\bin\Debug\net7.0\FileExplorer.Application.dll
+D:\File explorer\FileExplorer\FileExplorer.Application\bin\Debug\net7.0\FileExplorer.Application.pdb
+D:\File explorer\FileExplorer\FileExplorer.Application\obj\Debug\net7.0\FileExplorer.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\File explorer\FileExplorer\FileExplorer.Application\obj\Debug\net7.0\FileExplorer.Application.AssemblyInfoInputs.cache
+D:\File explorer\FileExplorer\FileExplorer.Application\obj\Debug\net7.0\FileExplorer.Application.AssemblyInfo.cs
+D:\File explorer\FileExplorer\FileExplorer.Application\obj\Debug\net7.0\FileExplorer.Application.csproj.CoreCompileInputs.cache
+D:\File explorer\FileExplorer\FileExplorer.Application\obj\Debug\net7.0\FileExplorer.Application.dll
+D:\File explorer\FileExplorer\FileExplorer.Application\obj\Debug\net7.0\refint\FileExplorer.Application.dll
+D:\File explorer\FileExplorer\FileExplorer.Application\obj\Debug\net7.0\FileExplorer.Application.pdb
+D:\File explorer\FileExplorer\FileExplorer.Application\obj\Debug\net7.0\ref\FileExplorer.Application.dll
+D:\File explorer\FileExplorer\FileExplorer.Application\obj\Debug\net7.0\FileExplorer.Application.csproj.AssemblyReference.cache

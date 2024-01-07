@@ -1,0 +1,15 @@
+D:\File explorer\FileExplorer\FileExplorer.Infrastructure\bin\Debug\net7.0\FileExplorer.Infrastructure.deps.json
+D:\File explorer\FileExplorer\FileExplorer.Infrastructure\bin\Debug\net7.0\FileExplorer.Infrastructure.dll
+D:\File explorer\FileExplorer\FileExplorer.Infrastructure\bin\Debug\net7.0\FileExplorer.Infrastructure.pdb
+D:\File explorer\FileExplorer\FileExplorer.Infrastructure\bin\Debug\net7.0\FileExplorer.Application.dll
+D:\File explorer\FileExplorer\FileExplorer.Infrastructure\bin\Debug\net7.0\FileExplorer.Application.pdb
+D:\File explorer\FileExplorer\FileExplorer.Infrastructure\obj\Debug\net7.0\FileExplorer.Infrastructure.csproj.AssemblyReference.cache
+D:\File explorer\FileExplorer\FileExplorer.Infrastructure\obj\Debug\net7.0\FileExplorer.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\File explorer\FileExplorer\FileExplorer.Infrastructure\obj\Debug\net7.0\FileExplorer.Infrastructure.AssemblyInfoInputs.cache
+D:\File explorer\FileExplorer\FileExplorer.Infrastructure\obj\Debug\net7.0\FileExplorer.Infrastructure.AssemblyInfo.cs
+D:\File explorer\FileExplorer\FileExplorer.Infrastructure\obj\Debug\net7.0\FileExplorer.Infrastructure.csproj.CoreCompileInputs.cache
+D:\File explorer\FileExplorer\FileExplorer.Infrastructure\obj\Debug\net7.0\FileExplorer.Infrastructure.csproj.CopyComplete
+D:\File explorer\FileExplorer\FileExplorer.Infrastructure\obj\Debug\net7.0\FileExplorer.Infrastructure.dll
+D:\File explorer\FileExplorer\FileExplorer.Infrastructure\obj\Debug\net7.0\refint\FileExplorer.Infrastructure.dll
+D:\File explorer\FileExplorer\FileExplorer.Infrastructure\obj\Debug\net7.0\FileExplorer.Infrastructure.pdb
+D:\File explorer\FileExplorer\FileExplorer.Infrastructure\obj\Debug\net7.0\ref\FileExplorer.Infrastructure.dll
